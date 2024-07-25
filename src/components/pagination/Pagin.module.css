@@ -1,0 +1,14 @@
+.wrapper{
+    display: flex;
+    justify-content: center;
+}
+.flex_element{
+    width: 100px;
+    margin-left: 50px;
+    margin-right: 50px;
+
+}
+
+.flex_element img{
+    width: 100%;
+}

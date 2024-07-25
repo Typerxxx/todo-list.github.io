@@ -1,0 +1,71 @@
+.task{
+
+    margin: 10px;
+    border-radius: 5px;
+    padding: 20px;
+    padding-bottom: 30px;
+    background-color: #301928;
+    color: rgb(226, 198, 208);
+    border:1px solid rgb(29, 5, 19);
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.task_title{
+    margin-left: 20px;
+    font-weight: 700;
+    font-size: 18px;
+    cursor: default;
+    margin-top: 10px;
+}
+
+
+
+img{
+    transition: 0.2s;
+}
+
+img:hover{
+    cursor: pointer;
+    opacity: 0.5;
+}
+
+img:active{
+    opacity: 0.2;
+}
+
+/* button{
+    position: absolute;
+    width: 10%;
+    height: 50px;
+    right: 23%;
+    background-color: rgb(243, 222, 230);
+    border-radius: 3px;
+    font-weight: 700;
+    font-size: 18px;
+    border:none;
+    transition: 0.2s;
+} */
+
+/* button:hover{
+    cursor: pointer;
+    background-color: rgb(32, 5, 24);
+
+
+    color:rgb(243, 222, 230);
+} */
+
+.button_div{
+    
+    width: 5%;
+}
+.button_div img{
+    width: 100%;
+}
+
+.mark{
+    display: flex;
+}
+
+
